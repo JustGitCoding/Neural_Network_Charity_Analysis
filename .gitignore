@@ -134,3 +134,6 @@ config.js
 .DS_Store
 .RData
 .Rhistory
+
+# Testing with hyperparameters from in-class work - still could not achieve 75% accuracy
+Charity_Neural_Network_hyperparameters.ipynb
